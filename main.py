@@ -5,4 +5,5 @@ def groovyFunky:
 
 this_file = "Has no purpose"
 this_array = ["should","be","Deleted"]
+print("Ulapalooma")
 groovyFunky()
